@@ -27,4 +27,3 @@ urlpatterns = [
     path('buter/', buter, name='buter_with_servings'),
     # здесь зарегистрируйте вашу view-функцию
 ]
-
